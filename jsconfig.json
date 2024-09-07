@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "target": "ES6",
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        // "checkJs": true // Enable type checking for JavaScript files 
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "allowJs": true, // Enable JavaScript files to be treated as TypeScript 
+    "resolveJsonModule": true // Enable importing JSON files as modules 
+}
